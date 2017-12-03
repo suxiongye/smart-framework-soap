@@ -1,0 +1,5 @@
+org/su/plugin/soap/SoapConfig.class
+org/su/plugin/soap/SoapHelper.class
+org/su/plugin/soap/Soap.class
+org/su/plugin/soap/SoapConstant.class
+org/su/plugin/soap/SoapServlet.class
